@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b450e8e3.chunk.css",
-    "main.js": "/static/js/main.9770d915.chunk.js",
-    "main.js.map": "/static/js/main.9770d915.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.15e96484.js",
-    "runtime-main.js.map": "/static/js/runtime-main.15e96484.js.map",
-    "static/js/2.cda37f25.chunk.js": "/static/js/2.cda37f25.chunk.js",
-    "static/js/2.cda37f25.chunk.js.map": "/static/js/2.cda37f25.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0e793eb04eeed728ccee2ab03884f28d.js": "/precache-manifest.0e793eb04eeed728ccee2ab03884f28d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b450e8e3.chunk.css.map": "/static/css/main.b450e8e3.chunk.css.map",
-    "static/js/2.cda37f25.chunk.js.LICENSE.txt": "/static/js/2.cda37f25.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/background2.a8d0d2db.jpg"
+    "main.css": "/moviegame/static/css/main.39a29262.chunk.css",
+    "main.js": "/moviegame/static/js/main.23002deb.chunk.js",
+    "main.js.map": "/moviegame/static/js/main.23002deb.chunk.js.map",
+    "runtime-main.js": "/moviegame/static/js/runtime-main.92c5566b.js",
+    "runtime-main.js.map": "/moviegame/static/js/runtime-main.92c5566b.js.map",
+    "static/js/2.cda37f25.chunk.js": "/moviegame/static/js/2.cda37f25.chunk.js",
+    "static/js/2.cda37f25.chunk.js.map": "/moviegame/static/js/2.cda37f25.chunk.js.map",
+    "index.html": "/moviegame/index.html",
+    "precache-manifest.86151a363777ccffce37a44d9c608ce0.js": "/moviegame/precache-manifest.86151a363777ccffce37a44d9c608ce0.js",
+    "service-worker.js": "/moviegame/service-worker.js",
+    "static/css/main.39a29262.chunk.css.map": "/moviegame/static/css/main.39a29262.chunk.css.map",
+    "static/js/2.cda37f25.chunk.js.LICENSE.txt": "/moviegame/static/js/2.cda37f25.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/moviegame/static/media/background2.a8d0d2db.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15e96484.js",
+    "static/js/runtime-main.92c5566b.js",
     "static/js/2.cda37f25.chunk.js",
-    "static/css/main.b450e8e3.chunk.css",
-    "static/js/main.9770d915.chunk.js"
+    "static/css/main.39a29262.chunk.css",
+    "static/js/main.23002deb.chunk.js"
   ]
 }
