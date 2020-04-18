@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Timer from './timer'
-import RandNumApp from './randnumapp'
-import Score from './score'
+import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Timer />
-    <RandNumApp />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
