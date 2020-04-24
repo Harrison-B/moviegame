@@ -56,12 +56,14 @@ class RandNumApp extends React.Component {
 
     handlePress() {
         if (this.state.nums.length != 0) {
+            if (this.state.number != 0) {
             if (this.state.team == 1) {
                 this.setState({ team1: this.state.team1 + 1 })
             } else {
                 this.setState({ team2: this.state.team2 + 1 })
             }
-
+            }
+            
             var randnum = Math.floor(Math.random() * this.state.nums.length);
 
             var newnum = this.state.nums[randnum];
